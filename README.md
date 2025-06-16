@@ -43,6 +43,7 @@ Al seleccionar una modalidad de juego, el usuario podrá indicar cuántas rondas
 
 Nos encontramos en la **fase inicial** del proyecto.  
 Se ha creado la primera función: `mostrar_menu()`, que presenta las opciones principales al usuario mediante la consola. Esta función será la puerta de entrada al flujo del juego.
+La segunda function: `jugar_contra_pc()`
 
 ---
 
