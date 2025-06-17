@@ -62,3 +62,12 @@ Ya tengo una cuenta GitHub aproximadamente hace 3 años entonces se uso la misma
    Más tarde se creó este archivo manualmente sin problemas.
 
 3. Se configuró Git en mi equipo, lo cual permitió trabajar desde Visual Studio Code utilizando la terminal integrada.
+
+## Notas
+
+El link del video esta aqui: https://drive.google.com/drive/folders/11xb2--34vxvjcoN4xsHnC9PJMoMvZLxn?usp=sharing
+
+Profe me quedó pendiente el Aprendizaje Autonomo 1, habia mandado un mensaje por la plataforma pq me habia puesto que me ponga contacto con usted pero no creo que vio, si podría aun chequearme ese trabajo le agradecería mucho, este es el link con la carpeta habilitada: https://drive.google.com/drive/folders/1-vyGvGwyOx3Co8NYY6A-JUxHKBCJ1p4X?usp=sharing
+
+Juan Sebastian Lopez
+Full Stack Dev
